@@ -1,0 +1,37 @@
+- [Introduction](introduction)
+  - [Overview](introduction/overview)
+  - [Purpose and Audience](introduction/purpose-audience)
+  - [Accessing the Website/App](/introduction/access)
+
+- [Functionality for Lecturers](functionality-lecturers)
+  - [Logging in to the Backend](functionality-lecturers/login)
+  - [Uploading Media to the Repository](functionality-lecturers/upload-media)
+  - [Editing Media Metadata](functionality-lecturers/edit-media)
+  - [Managing the Glossary](functionality-lecturers/manage-glossary)
+  - [Adding New Words to the Glossary](functionality-lecturers/add-words)
+  - [Editing and Deleting Glossary Entries](functionality-lecturers/edit-delete-glossary)
+
+- [Functionality for Students](functionality-students)
+  - [Accessing the Public Pages](functionality-students/access)
+  - [Searching for Media in the Repository](functionality-students/search-media)
+  - [Viewing Media Details](functionality-students/view-media)
+  - [Playing Media](functionality-students/play-media)
+  - [Searching for Glossary Entries](functionality-students/search-glossary)
+  - [Viewing Glossary Entries](functionality-students/view-glossary)
+
+- [Technical Information](technical-info)
+  - [System Requirements](technical-info/requirements)
+  - [Deployment Process](technical-info/deployment)
+  - [Data Storage and Backup Procedures](technical-info/storage-backup)
+  - [Security Measures](technical-info/security)
+
+- [Troubleshooting](troubleshooting)
+  - [Frequently Asked Questions](troubleshooting/faq)
+  - [Known Issues and Workarounds](troubleshooting/issues)
+  - [How to Contact Support](troubleshooting/contact)
+
+- [Glossary of Terms](glossary)
+
+- [Appendices](appendices)
+  - [Glossary of Technical Terms](appendices/tech-glossary)
+  - [References and Resources](appendices/references)
