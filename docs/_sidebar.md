@@ -19,12 +19,6 @@
   - [Searching for Glossary Entries](functionality-students/search-glossary)
   - [Viewing Glossary Entries](functionality-students/view-glossary)
 
-- [Technical Information](technical-info)
-  - [System Requirements](technical-info/requirements)
-  - [Deployment Process](technical-info/deployment)
-  - [Data Storage and Backup Procedures](technical-info/storage-backup)
-  - [Security Measures](technical-info/security)
-
 - [Troubleshooting](troubleshooting)
   - [Frequently Asked Questions](troubleshooting/faq)
   - [Known Issues and Workarounds](troubleshooting/issues)
